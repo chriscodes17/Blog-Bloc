@@ -1,0 +1,6 @@
+Feats:
+- have a jumbotron showing random blogs
+- show each blog in a card or box
+- Navbar with login and logout logic
+- have comments for each blog
+- have authorization
